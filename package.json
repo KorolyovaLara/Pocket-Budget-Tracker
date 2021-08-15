@@ -1,7 +1,7 @@
 {
   "name": "budget-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Budget tracker app that helps you to track your money in an easy and simple way, nothing fancy or distracting.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,11 +13,8 @@
     "type": "git",
     "url": "https://github.com/KorolyovaLara/Pocket-Budget-Tracker"
   },
-  "author": "",
+  "author": "Larysa Korolyova",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/KorolyovaLara/Pocket-Budget-Tracker/blob/main/LICENSE"
-  },
   "homepage": "https://github.com/KorolyovaLara/Pocket-Budget-Tracker/blob/main/README.md",
   "dependencies": {
     "compression": "^1.7.4",

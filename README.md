@@ -38,6 +38,7 @@ https://pocket-budget-tracker.herokuapp.com
 - Express.js
 - MongoDB
 - IndexedDB
+- PWA (Progressive Web Application)
 - npm
 
 ## Technical Part
